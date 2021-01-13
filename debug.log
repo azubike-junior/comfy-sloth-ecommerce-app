@@ -1,0 +1,4 @@
+[0106/232949.097:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0107/142709.372:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\sean\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\93ba1791-851c-45cc-bd5b-a9d2d1c535f4: The system cannot find the path specified. (0x3)
+[0109/114305.350:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0109/115305.616:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
